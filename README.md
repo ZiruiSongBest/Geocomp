@@ -1,5 +1,13 @@
-# Geocomp: Geolocation with Real Human Gameplay Data: A Large-Scale Dataset and Human-Like Reasoning Framework
+<h1 align="center">Geocomp: Geolocation with Real Human Gameplay Data: A Large-Scale Dataset and Human-Like Reasoning Framework</h1>
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2502.13759">
+    <img src="https://img.shields.io/badge/arXiv-2502.13759-b31b1b.svg" alt="arXiv">
+  </a>
+  <a href="https://huggingface.co/datasets/ShirohAO/tuxun#citation-information">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue" alt="Hugging Face Dataset">
+  </a>
+</p>
 
 ## 📝 Introduction
 
