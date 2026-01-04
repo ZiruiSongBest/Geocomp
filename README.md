@@ -29,7 +29,7 @@ This project aims to tackle key bottlenecks in current geolocation research thro
 
 * **Large-Scale Real-World Dataset (GeoComp)**:
     * Derived from real interaction data of 740,000 users over more than two years on the online geolocation gaming platform (tuxun.fun).
-    * Contains 25 million metadata records and **over 3 million** geotagged street view locations, covering extensive global regions.
+    * Contains 25 million metadata records and **over 2.7 million** geotagged street view locations, covering extensive global regions.
     * Each location has undergone thousands, even tens of thousands, of localization attempts by human players, embedding rich information about task difficulty and valuable real-world human performance benchmarks.
 * **Human-Like Reasoning Framework (GeoCoT)**:
     * Proposes a novel multi-step Geospatial Chain-of-Thought (GeoCoT) framework, significantly enhancing the reasoning ability of Large Vision-Language Models (LVMs) in complex geolocation tasks.
