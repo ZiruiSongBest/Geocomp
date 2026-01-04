@@ -9,6 +9,9 @@
   </a>
 </p>
 
+# Anonymization
+
+**For all content in GitHub repository and Hugging Face dataset repository, we have ensured that anonymization has been performed, making it impossible to trace back to the authors' information.**
 ## 📝 Introduction
 
 Geocomp is a research project and codebase focusing on **image geolocation**. Geolocation aims to precisely identify the location where an image was captured, which is crucial in fields such as navigation, autonomous driving, content moderation, and cultural heritage preservation. However, its inherent complexity poses significant challenges to existing methods. Current mainstream approaches often produce coarse, imprecise, and uninterpretable localization results. This is partly due to the limitations of existing benchmark datasets, which are often limited in scale, automatically constructed, contain noise, and have an uneven distribution of task difficulty (image clues are either too obvious or severely lacking), making it difficult to effectively evaluate and advance the development of models' advanced reasoning capabilities.
